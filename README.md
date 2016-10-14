@@ -1,11 +1,11 @@
-# RayshudInstallers
-Automatic installers for https://github.com/raysfire/rayshud
+# oxyhud-installers
+Automatic installers for https://github.com/oxyacetylene/oxyhud
 
 ## Use
 
-For linux users run this in terminal: `wget https://raw.githubusercontent.com/J-tt/RayshudInstallers/master/rayshudunix.sh && chmod +x rayshudunix.sh && ./rayshudunix.sh && rm rayshudunix.sh`
+For linux users run this in terminal: `wget https://raw.githubusercontent.com/oxyacetylene/oxyhud-installers/master/oxyhudunix.sh && chmod +x oxyhudunix.sh && ./oxyhudunix.sh && rm oxyhudunix.sh`
 
-For Windows users: [Download and run](https://github.com/J-tt/RayshudInstallers/raw/master/InstallRayshud.exe)
+For Windows users: [Download and run](https://github.com/oxyacetylene/oxyhud-installers/raw/master/InstallRayshud.exe)
 
 ## Todo
 
